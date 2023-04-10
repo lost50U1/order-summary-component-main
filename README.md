@@ -22,7 +22,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: [Website]((https://www.frontendmentor.io/solutions/order-summary-component-responsive-with-flexbox-GpX_V7-N__))
+- Solution URL: [Website](https://www.frontendmentor.io/solutions/order-summary-component-responsive-with-flexbox-GpX_V7-N__)
 - Live Site URL: [Website](https://lost50u1.github.io/order-summary-component-main/)
 
 ## My process
