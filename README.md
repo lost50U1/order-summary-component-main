@@ -23,7 +23,7 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 ### Links
 
 - Solution URL: [Website](https://www.frontendmentor.io/solutions/responsive-qr-code-component-with-html-and-css-FkbW3chcZy)
-- Live Site URL: [Website](https://lost50u1.github.io/qrcodecomponent/)
+- Live Site URL: [Website](https://lost50u1.github.io/order-summary-component-main/)
 
 ## My process
 
